@@ -1,0 +1,62 @@
+﻿,file_name,Base,Dopant,Primary Ramp Time,Primary Melt Temp,Primary Melt Time,Secondary Ramp Time,Secondary Melt Temp,Secondary Melt Time,Anneal Ramp Time,Anneal Temp,Anneal Time,Cooling type,Densification Technique,Pure Phase
+0,Samyak/1-s2.0-S0022024810008985-main.pdf,CuInSe2,Cd,NA,870,NA,50,1470,NA,10,870,500,NA,NA,0
+0,Samyak/1-s2.0-S092151071200270X-main.pdf,AgInTe2,Ag,NA,298,NA,NA,1273,24,NA,773,72,Quenching,HotPress,1
+0,Samyak/1-s2.0-S1385894721033842-main.pdf,CuGaTe2,Ni,NA,298,NA,NA,1173,30,NA,927,72,NA,SparkPlasmaSintering,1
+0,Samyak/1-s2.0-S1452398123021399-main.pdf,CuGaSe2,Ga,NA,973,94,NA,1353,71,NA,1273,95,NA,NA,0
+0,Samyak/1-s2.0-S2352847817300862-main.pdf,CuGaTe2,Fe,NA,298,NA,NA,1173,12,NA,873,12,Room,HotPress,0
+0,Samyak/125914182a.pdf,TlGaSe2,Cu,NA,1100,5,NA,1300,5,NA,900,240,NA,NA,0
+0,Samyak/acs.chemmater.2c01869.pdf,CuGaTe2,Li,240,673,24,60,1173,24,30,923,96,NA,HotPress,1
+0,Samyak/acsami.2c07557-supporting.pdf,CuGaTe2,Ag,NA,298,NA,NA,1273,24,2,923,NA,Furnace,SparkPlasmaSintering,1
+0,Samyak/Adv Energy and Sustain Res - 2023 - Zha...,CuGaTe2,Sb,NA,298,NA,NA,1273,12,NA,653,0.083333,Quenching,SparkPlasmaSintering,0
+0,Samyak/Adv Material for Optics Elec - 1998 - M...,CuGaSe2,VCu,NA,1423,50,NA,1446,NA,NA,1373,NA,NA,NA,1
+0,Samyak/Advanced Materials - 2012 - Plirdpring.pdf,CuGaTe2,Mn,NA,298,NA,NA,1173,NA,NA,773,72,Furnace,HotPress,0
+0,Samyak/Aresti_1977_J._Electrochem._Soc._124_76...,CuGaTe2,Cd,NA,298,NA,NA,1160,72,NA,298,NA,Icewaterbath,NA,0
+0,Samyak/BF00541585.pdf,CuGaTe2,NA,NA,298,NA,NA,1130,NA,NA,298,NA,NA,NA,0
+0,Samyak/BF00541585.pdf,CuGaTe2,NA,NA,298,NA,NA,1130,NA,NA,298,NA,NA,NA,0
+0,Samyak/cugase.pdf,CuGaSe2,Mn,NA,1273,4,NA,1373,1,NA,298,NA,Quenching,NA,0
+0,Samyak/d0tc00795a.pdf,CuGaTe2,CP,NA,298,NA,180,1273,12,NA,298,NA,NA,HotPress,1
+0,Samyak/Zhang-2014-Enhancedthermoelect.pdf,CuGaTe2,Cu2Se,NA,298,NA,NA,859,NA,NA,298,NA,NA,NA,0
+0,Andre/1-s2.0-S0925838805012284-main.pdf,AgInSe2,Si,40,40,NA,NA,1270,NA,NA,670,250,Quenching,NA,1
+0,Andre/1-s2.0-S1369800115300755-mainext.pdf,AgInSe2,NA,NA,953,24,NA,1213,48,NA,943,NA,860Â°Cand670Â°Calternately,HotPress,1
+0,Andre/1-s2.0-S2542529321000894-am.pdf,AgInSe2,Ag,NA,298,NA,NA,1273,12,NA,773,12,Furnace,NA,1
+0,Andre/1173_AthabRH.pdf,AgCuInSe2,Cu,NA,373,1,NA,473,1,NA,298,NA,NA,NA,0
+0,Andre/125914181.pdf,TlInSe2,Cu,NA,298,NA,NA,1300,4,NA,1100,240,NA,NA,0
+0,Andre/557f5e1ce06fba06.pdf,AgInSe2,Cu,NA,373,1,NA,473,1,NA,298,NA,NA,NA,0
+0,Andre/acsaem.0c02437.pdf,AgInSe2,Ag,NA,298,NA,NA,1273,24,NA,823,72,Quenching,NA,0
+0,Andre/Adv Elect Materials - 2021 - Zhong.pdf,AgGaTe2,In,NA,298,NA,100,1273,28,15,873,NA,Quenching,SparkPlasmaSintering,1
+0,Andre/PIIS254243511730079X.pdf,AgGaSe6,Te,NA,298,NA,NA,1227,6,NA,900,72,ColdWater,HotPress,0
+0,Andre/retrieve.pdf,AgGaTe2,NA,NA,483,NA,NA,563,NA,NA,298,NA,NA,NA,1
+0,Andre/s12598-018-1031-0.pdf,AgGaTe2,Cu,NA,298,NA,NA,1273,NA,NA,1173,NA,Quenching,NA,0
+0,Haiwen/acsami.6b01630.pdf,AIT,Ag,NA,298,NA,NA,983,24,-1,965,NA,Room,NA,1
+0,Haiwen/Adv Funct Materials - 2020 - Cao.pdf,ABTe2,Cu,NA,298,NA,100,1273,24,NA,823,24,Quenching,SparkPlasmaSintering,0
+0,Haiwen/Advanced Science - 2017 - Qiu.pdf,AgInSe2,Cd,NA,298,NA,NA,1273,12,NA,923,120,NA,HotPress,0
+0,Haiwen/art14.pdf,AgInSe2,Ag,10,1073,3,NA,1323,NA,NA,298,NA,NA,NA,0
+0,Haiwen/Crystal Research and Technology - 2004 - Moustafa.pdf,CuAgInTe2,Cu,30,723,2,50,1373,24,NA,298,NA,Decreasedatarateof100Kh-1toatemperature50degreesabovethemeltingtemperature(~1000-1050K)andlefttherefor12hours.Finally,themixturewasslowlycooledinthefurnacetoroomtemperature(300K).,1
+0,Haiwen/Cu-Ag_both.pdf,CuInTe2,Cu,NA,1273,2,NA,1446,6,NA,1123,NA,750oCto600oCat1oC/hand600oCto20oCat5oC/h,HotPress,1
+0,Haiwen/d3tc00070b.pdf,AgInTe2,ZnandGe,NA,298,NA,NA,1273,0.083333333,NA,573,48,Quenching,HotPress,0
+0,Haiwen/ic3c01993_si_001.pdf,LiAgInSe2,Li,NA,298,NA,NA,1273,NA,NA,773,NA,Quenching,NA,1
+0,Haiwen/jacs.6b08382.pdf,SnTe,AgIn,NA,298,NA,NA,1173,10,NA,298,NA,NA,NA,0
+0,Haiwen/K_Yoshino_2008_J._Phys.__Conf._Ser._100_042042.pdf,AgInSe2,Ag,NA,298,NA,NA,923,1,NA,298,NA,NA,HotPress,0
+0,Haiwen/retrieve (1).pdf,TlInSe2,Cu,NA,298,NA,NA,1300,4,NA,1100,240,NA,NA,0
+0,Haiwen/retrieve.pdf,AgInSe2,Hg,NA,298,NA,20,1270,NA,NA,870,250,NA,NA,0
+0,Haiwen/s41598-019-55458-3.pdf,AgInTe2,Ag,NA,298,NA,1800,1073,NA,8,873,NA,Quenching,SparkPlasmaSintering,0
+0,Haiwen/ying2012.pdf,AgInSe2,Ag,NA,298,NA,NA,1273,24,NA,860,NA,Quenching,SparkPlasmaSintering,1
+0,Andy/aswathy2017.pdf,TlScTe2,Tl,NA,298,NA,12,1073,NA,NA,623,6,Room,NA,1
+0,Andy/BF00816082.pdf,TIBiTe2,NA,NA,298,NA,NA,535,NA,NA,400,150,NA,NA,1
+0,Andy/fmats-10-1108048.pdf,TlSnTe6,Sb,NA,298,NA,NA,550,NA,NA,298,NA,NA,HotPress,1
+0,Andy/ic3020699.pdf,TlPbTiS,Ti,NA,298,NA,NA,1073,100,NA,723,NA,NA,NA,0
+0,Andy/45_KhanS.pdf,TlSnSbTe,Sn,NA,300,NA,NA,550,NA,NA,298,NA,NA,NA,1
+0,Andy/alakbarovat.pdf,TlBiTe2,Tl,NA,690,NA,NA,850,NA,NA,765,NA,Quenching,NA,0
+0,Andy/MasterThesis2018.pdf,Tl9SbTe6,Sn,NA,298,NA,NA,923,24,NA,298,NA,RT-12h-650C-6h-650C-60h-560C-70h-400C-RT,Room,1
+0,Andy/phase-relations-in-tl9gdte6.pdf,Tl9GdTe6-Tl9SbTe6,Tl9TbTe6-Tl9SbTe6,NA,850,NA,300,1200,3,NA,730,200,NA,NA,0
+0,Andy/Phase_equilibria887.pdf,Tl5Te3,Tl9SbTe6-Tl9GdTe6,NA,800,NA,NA,1190,NA,NA,298,NA,1173Kover10h,923Kattherateof5K/min,1
+0,Andy/s11669-017-0564-5.pdf,Tl2Te,Tl9TmTe6,NA,298,NA,NA,750,NA,NA,720,1000,NA,NA,1
+0,Andy2/kurosaki2004.pdf,TlSbTe2,AgSb,NA,298,NA,NA,923,5,NA,298,NA,NA,HotPress,1
+0,Andy2/phase-relations-in-the-tl2te.pdf,Tl2Te,Tl,NA,700,500,NA,1000,100,NA,900,500,Room,NA,0
+0,Andy2/solid-phase-equilibria-in-the-tlbite2.pdf,TlBiTe2,TlTb,NA,820,NA,NA,1173,NA,NA,923,NA,NA,NA,0
+0,Andy3_done/170_18426life1002_1233_1237.pdf,TlBiTe2,NA,NA,220,NA,NA,480,NA,NA,298,NA,NA,NA,1
+0,Andy3_done/395_KhanWM.pdf,TlSbTe,Sn,NA,298,NA,NA,923,24,NA,298,NA,NA,HotPress,1
+0,Andy3_done/acs-chemmater-5b03727.pdf,TlBi2Te3,Tl,NA,298,NA,NA,1123,48,5,823,NA,Quenching,NA,0
+0,Andy3/kurosaki2003-2.pdf,TlBiTe,NA,NA,400,NA,NA,600,NA,NA,298,NA,NA,HotPress,1
+0,Pritish/S0020168508100063.pdf,Tl2Te,Sn,NA,698,NA,NA,1080,NA,NA,780,NA,NA,NA,0
+0,Pritish/PhysRevLett.108.116801.pdf,PbBi2Te4,Sb,NA,298,NA,NA,1173,24,NA,773,96,NA,NA,0
