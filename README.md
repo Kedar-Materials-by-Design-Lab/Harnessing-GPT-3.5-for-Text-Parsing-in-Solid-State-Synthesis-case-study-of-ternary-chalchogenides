@@ -7,4 +7,4 @@ We provide 3 datasets
 2. silver_standard - GPT extracted CuInTe/Se
 3. exchsp - GPT-extract ternary chalcogenides
 
-To run the same prompts, use 
+To run the same prompts, use LLM_data_extraction_template with utils, and put your PDFs in a directory.
