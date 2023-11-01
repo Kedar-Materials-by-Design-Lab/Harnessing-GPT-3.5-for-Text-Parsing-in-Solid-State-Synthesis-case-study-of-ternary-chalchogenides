@@ -4,7 +4,7 @@ In solid-state thermoelectrics, single-phase compounds are necessary for expandi
 
 We provide 3 datasets
 1. gold_standard - manually extracted CuInTe/Se
-2. silver_standard - GPT extracted CuInTe/Se
+2. silver_standard - GPT extracted from gold_standard
 3. exchsp - GPT-extract ternary chalcogenides
 
-To run the same prompts, use LLM_data_extraction_template with utils, and put your PDFs in a directory.
+To run the same prompts, download LLM_data_extraction_template.ipynb and utils.py, and follow the instructions in the notebook.
