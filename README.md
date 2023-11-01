@@ -8,3 +8,6 @@ We provide 3 datasets
 3. exchsp - GPT-extract ternary chalcogenides
 
 To run the same prompts, download LLM_data_extraction_template.ipynb and utils.py, and follow the instructions in the notebook.
+Results for ExChSp are placed seperately.
+
+Additionally, the code for feature importance analysis and other figures are also provided in visualization.ipynb.
